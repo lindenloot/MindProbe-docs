@@ -53,3 +53,7 @@ a:hover {
 .contact-info {
 	font-size: 1.1em;
 }
+
+#title-block-header {
+	display: none;
+}
