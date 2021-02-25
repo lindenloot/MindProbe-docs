@@ -1,0 +1,4 @@
+run: |
+  !pandoc website.md --css="stylesheet.css" --standalone --self-contained -o index.html
+  import webbrowser
+  webbrowser.open('index.html')
