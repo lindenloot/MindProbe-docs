@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pandoc website.md --css="stylesheet.css" --standalone --self-contained -o index.html
+pandoc website.md --template=template.html --css="stylesheet.css" --standalone --self-contained -o index.html
