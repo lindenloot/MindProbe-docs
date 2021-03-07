@@ -6,19 +6,19 @@ title: MindProbe
 
 <div markdown="1" class="container">
 
-<div markdown="1" class="contact-info">
-__MindProbe__  
-
-Contact: info@mindprobe.eu
-</div>
-
-
-<div markdown="1" class="center-img">
-![](img/mindprobe-logo.png)
+<div id="banner">
+<img src="img/mindprobe-logo.png">
 </div>
 
 
 **MindProbe** is a server to host online experiments. This server runs the open-source software [JATOS](https://www.jatos.org/), which is compatible with several free software packages for developing online experiments, including [OpenSesame/OSWeb](https://osdoc.cogsci.nl/), [jsPsych](https://www.jspsych.org/), and [Lab.JS](https://lab.js.org/). MindProbe is sponsored by [ESCOP](https://www.escop.eu/), with [Journal of Cognition](https://www.journalofcognition.org/) as their official journal. MindProbe is free.
+
+<div class="button-container">
+<a href="#request-account">Request account</a>
+<a href="https://jatos.mindprobe.eu/">Log into JATOS</a>
+<a href="#support-forum">Support forum</a>
+<a href="#terms-of-use">Terms of use</a>
+</div>
 
 
 <div markdown="1" class="center-img">
@@ -83,10 +83,10 @@ We are not liable to you for any losses, damages, claims and expenses whatsoever
 
 Abusive accounts will be suspended without advance notice. Here, 'abuse' includes (but is not limited to) spamming, distribution of illegal materials, and collection of illegal data.
 
-
-# Ready to use MindProbe? [Contact us](#contact-us)
-
+<div id="footer">
+Copyright 2021 MindProbe.eu
 </div>
 
+</div>
 
 </div>
