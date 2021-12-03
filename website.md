@@ -13,8 +13,9 @@ title: MindProbe
 </div>
 
 
-<div markdown="1" class="center-img">
-![](img/logos.png)
+<div markdown="1" id="logos">
+<hr />
+![](img/banner.png)
 </div>
 
 ## Request account

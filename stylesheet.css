@@ -35,6 +35,7 @@ body {
     border: solid 1px #888a85;
     padding: 6px 12px;
     text-decoration: none;
+    margin-bottom: 4px;
 }
 
 .button-container a:hover {
@@ -43,7 +44,7 @@ body {
 }
 
 .container {
-	max-width: 1024px;
+	max-width: 800px;
 	margin-top: 32px;
 	margin: auto;
 	padding: 32px;
@@ -88,4 +89,14 @@ a:hover {
 
 #title-block-header {
 	display: none;
+}
+
+@media (max-width: 799px) {
+	#logos {
+		display: none;
+	}
+}
+
+#logos img {
+	margin-top: 8px;
 }
