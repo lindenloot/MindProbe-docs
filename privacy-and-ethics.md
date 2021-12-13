@@ -20,7 +20,7 @@ MindProbe uses encryption for all network traffic. The JATOS server software is 
 
 ## How is data on MindProbe backed up?
 
-All data on MindProbe is backed up once a week. Therefore, export your result data on regularly, because in the (unlikely) case of a server failure you may lose up to a week of data. We do not have the capacity to help troubleshoot or recover lost data.
+All data on MindProbe is backed up once a week. Therefore, export your result data regularly, because in the (unlikely) case of a server failure you may lose up to a week of data. We do not have the capacity to help troubleshoot or recover lost data.
 
 ## What user (researcher) data is stored on MindProbe?
 
@@ -28,7 +28,7 @@ A user (researcher) account on MindProbe only contains an email address and a re
 
 ## What participant data is stored on MindProbe?
 
-The kinds of participant data that is collected by a study depends on how the study is implemented. It is the responsibility of the user (researcher) to ensure that participants are sufficiently informed of what data is being collected and of the rights that participants have with respect to their own data, and that data collection is in accordance with all applicable regulations.
+The kind of participant data that is collected by a study depends on how the study is implemented. It is the responsibility of the user (researcher) to ensure that participants are sufficiently informed of what data is being collected and of the rights that participants have with respect to their own data, and that data collection is in accordance with all applicable regulations.
 
 ## Who owns user (researcher) data on MindProbe?
 

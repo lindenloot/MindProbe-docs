@@ -9,7 +9,7 @@ Last update: Dec 3, 2021
 
 ## Time frame and availability
 
-We will provide this server at least until the end of February 2022. Whether we will be able to continue after this period depends on the available funding.
+We will provide this server at least until the end of February 2023. Whether we will be able to continue after this period depends on the available funding.
 
 As electronic services are subject to interruption or breakdown, access to the MindProbe server is provided on an "as is" and "as available" basis only.
 
