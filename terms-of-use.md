@@ -4,7 +4,7 @@ title: MindProbe: Terms of use
 
 [Go back](index.html)
 
-Last update: Dec 3, 2021
+Last update: Dec 14, 2021
 
 
 ## Time frame and availability
@@ -13,7 +13,7 @@ We will provide this server at least until the end of February 2023. Whether we 
 
 As electronic services are subject to interruption or breakdown, access to the MindProbe server is provided on an "as is" and "as available" basis only.
 
-In the future, we may impose restrictions on the use of MindProbe. Furthermore, for security, technical, maintenance, legal or regulatory reasons, or due to any breach of the terms of use, we may withdraw this service at any time and without advance notice.
+We will make a reasonable effort to continue to provide MindProbe as a free service, and to notify users (researchers) in advance of any changes related to availability, terms of use, or privacy and ethics. However, we cannot guarantee this. Specifically, in the future, we may impose restrictions on the use of MindProbe. Furthermore, for security, technical, maintenance, legal or regulatory reasons, or due to any breach of the terms of use, we may withdraw this service at any time and without advance notice. 
 
 
 ## Non-profit research only
