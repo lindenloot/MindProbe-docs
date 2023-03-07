@@ -1,15 +1,15 @@
 ---
-title: MindProbe: Terms of use
+title: "MindProbe: Terms of use"
 ---
 
 [Go back](index.html)
 
-Last update: Dec 14, 2021
+Last update: March 7, 2023
 
 
 ## Time frame and availability
 
-We will provide this server at least until the end of February 2023. Whether we will be able to continue after this period depends on the available funding.
+We will provide this server at least until the end of February 2025. Whether we will be able to continue after this period depends on demand and available funding.
 
 As electronic services are subject to interruption or breakdown, access to the MindProbe server is provided on an "as is" and "as available" basis only.
 
